@@ -7,4 +7,4 @@ Presenter: Harsh Modi
 
 Slides Reviewed by Jeevan Singh and Shubh Arya (@diablo).
 
-CTF-Challenge: Qu4d3 (Telegram Username)
+
